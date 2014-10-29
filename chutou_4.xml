@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<!--动画帧信息表-->
+<animation>
+    <action totalFrame="39" actionName="chutou_4">
+        <frameInfo frame="0" />
+        <frameInfo frame="1" />
+        <frameInfo frame="2" />
+        <frameInfo frame="3" />
+        <frameInfo frame="4" />
+        <frameInfo frame="5" />
+        <frameInfo frame="6" />
+        <frameInfo frame="7" />
+        <frameInfo frame="8" />
+        <frameInfo frame="9" />
+        <frameInfo frame="10" />
+        <frameInfo frame="11" />
+        <frameInfo frame="12" />
+        <frameInfo frame="13" />
+        <frameInfo frame="14" />
+        <frameInfo frame="15" />
+        <frameInfo frame="16" />
+        <frameInfo frame="17">
+            <frameData alpha="0.5" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="18">
+            <frameData alpha="0.55078125" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="19">
+            <frameData alpha="0.6015625" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="20">
+            <frameData alpha="0.6484375" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="21">
+            <frameData alpha="0.69921875" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="22">
+            <frameData alpha="0.75" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="23">
+            <frameData alpha="0.80078125" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="24">
+            <frameData alpha="0.8515625" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="25">
+            <frameData alpha="0.8984375" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="26">
+            <frameData alpha="0.94921875" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="27">
+            <frameData bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="28">
+            <frameData alpha="0.94921875" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="29">
+            <frameData alpha="0.8984375" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="30">
+            <frameData alpha="0.8515625" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="31">
+            <frameData alpha="0.80078125" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="32">
+            <frameData alpha="0.75" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="33">
+            <frameData alpha="0.69921875" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="34">
+            <frameData alpha="0.6484375" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="35">
+            <frameData alpha="0.6015625" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="36">
+            <frameData alpha="0.55078125" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="37">
+            <frameData alpha="0.5" bitmapName="baoxiangguangxian" scaleX="-1.000000" scaleY="-1.000000" rotation="179.999985" position="15.700000,-23.250000" />
+        </frameInfo>
+        <frameInfo frame="38" />
+    </action>
+</animation>
